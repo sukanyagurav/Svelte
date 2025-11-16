@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #272e3a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(223, 219, 219);
+  font-family: 'Poppins', sans-serif;
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+}
+button {
+  color: inherit;
+  cursor: pointer;
+  border: none;
+}
+img {
+  display: block;
+}
+p,span{
+    font-size: 0.8rem;
+}

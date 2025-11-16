@@ -25,10 +25,10 @@ export let trips = [
         reviewImageSrc: 'https://randomuser.me/api/portraits/women/12.jpg',
       },{
         id: 'review6',
-        reviewImageSrc: 'https://randomuser.me/api/portraits/women/12.jpg',
+        reviewImageSrc: 'https://randomuser.me/api/portraits/women/11.jpg',
       },{
         id: 'review7',
-        reviewImageSrc: 'https://randomuser.me/api/portraits/women/12.jpg',
+        reviewImageSrc: 'https://randomuser.me/api/portraits/men/99.jpg',
       },
     ],
   },
